@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-find . -type d -exec chmod u+x,g+x,o+x {} +
-=======
 find . -type d -exec chmod u+rwx,g+rx,o+rx {} +
->>>>>>> 3c8d637c667513365c686525a12cb9ab4ca2d51d
