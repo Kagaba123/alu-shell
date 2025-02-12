@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir & find my_dir -type d -exec chmod u+rwx,g+x,o+x {} +
+mkdir my_dir & find my_dir -type d -exec chmod uwx,g+wx,o+wx {} +
