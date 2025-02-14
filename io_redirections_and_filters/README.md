@@ -1,2 +1,2 @@
-## Script: 5-firstlines
-This script displays the first 10 lines of the /etc/passwd file, which contains user account information.
+## Script: 6-third_line
+This script displays the third line of the file 'iacta' using a combination of head and tail commands.
