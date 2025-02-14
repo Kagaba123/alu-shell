@@ -1,2 +1,2 @@
-## Script: 1-confused_smiley
-This script prints the confused smiley: "(Ôo)'"
+## Script: 2-hellofile
+This script displays the contents of the /etc/passwd file, which contains user account information.
