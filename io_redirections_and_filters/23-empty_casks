@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -exec echo {} \+ | while read -r line do echo "${line#./}" done
+find . -empty -exec echo {} \ | while read -r line do echo "${line#./}" done
